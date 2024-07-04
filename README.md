@@ -6,6 +6,9 @@
 - 😄 Kay / Kaye
 - ⚡ ISFJ / ENFJ long term for an ambivert
 
+ # Open Positions
+-[Software Developer](https://likhacareers.recruitee.com/careers) 
+
 <!---
 Kaye-alt/Kaye-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
