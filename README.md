@@ -1,5 +1,4 @@
-![image](https://github.com/Kaye-alt/Kaye-alt/assets/173774474/617bf7ea-3c6b-4774-a9fd-45b550cdb18d)# About Me
-
+# About Me
 - 👋 Hi, I’m @Kaye-alt
 - 👀 I’m interested in hiring Developers, Software Engineers
 - 🌱 I’m currently learning the IT jargons
