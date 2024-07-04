@@ -3,7 +3,6 @@
 - 👀 I’m interested in hiring Developers, Software Engineers
 - 🌱 I’m currently learning the IT jargons
 - 💞️ I’m looking to collaborate on any possibilities
-- 📫 laribal@likhacareers.com / FB: https://www.facebook.com/lendeekayearibal / IG: https://www.instagram.com/lhendsxiv/?hl=en
 - 😄 Kay / Kaye
 - ⚡ ISFJ / ENFJ long term for ambivert
 
