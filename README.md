@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, I’m @Kaye-alt
 - 👀 I’m interested in hiring Developers, Software Engineers
 - 🌱 I’m currently learning the IT jargons
@@ -7,7 +9,7 @@
 - ⚡ ISFJ / ENFJ long term for an ambivert
 
  # Open Positions
--[Software Developer](https://likhacareers.recruitee.com/careers) 
+- [Software Developer](https://likhacareers.recruitee.com/careers) 
 
 <!---
 Kaye-alt/Kaye-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
