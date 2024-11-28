@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the IT jargons
 - 💞️ I’m looking to collaborate on any possibilities
 - 😄 Kay / Kaye
-- ⚡ ISFJ / ENFJ long term for ambivert
+- ⚡ INFJ
 
  # Open Positions
 - [Head of Android](https://likhacareers.recruitee.com/o/head-of-android)
